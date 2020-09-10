@@ -1,3 +1,3 @@
 # java
-java programming
-git/java-1    /*   privatPC path
+# ava programming
+# git/java-1    /*   privatPC path

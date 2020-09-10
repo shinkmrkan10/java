@@ -1,0 +1,35 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dice<Dice_5a927bc>",
+            "request": "launch",
+            "mainClass": "Dice",
+            "projectName": "Dice_5a927bc"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RandomSample03<Dice_5a927bc>",
+            "request": "launch",
+            "mainClass": "RandomSample03",
+            "projectName": "Dice_5a927bc"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-random_dice<Dice_5a927bc>",
+            "request": "launch",
+            "mainClass": "random_dice",
+            "projectName": "Dice_5a927bc"
+        }
+    ]
+}
